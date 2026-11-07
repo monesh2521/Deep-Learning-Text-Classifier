@@ -1,0 +1,23 @@
+Dataset size: 240
+Logistic Regression accuracy: 0.542
+PyTorch accuracy: 0.625
+
+Logistic Regression report:
+              precision    recall  f1-score   support
+
+    Negative       0.55      0.46      0.50        24
+    Positive       0.54      0.62      0.58        24
+
+    accuracy                           0.54        48
+   macro avg       0.54      0.54      0.54        48
+weighted avg       0.54      0.54      0.54        48
+
+PyTorch report:
+              precision    recall  f1-score   support
+
+    Negative       0.64      0.58      0.61        24
+    Positive       0.62      0.67      0.64        24
+
+    accuracy                           0.62        48
+   macro avg       0.63      0.62      0.62        48
+weighted avg       0.63      0.62      0.62        48

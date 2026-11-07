@@ -1,0 +1,241 @@
+text,sentiment,label
+I love this product,Positive,1
+This product is excellent,Positive,1
+The service was wonderful,Positive,1
+The movie was fantastic,Positive,1
+The food tastes delicious,Positive,1
+I am happy with this purchase,Positive,1
+The staff were friendly,Positive,1
+This was a great experience,Positive,1
+The quality is amazing,Positive,1
+The app is easy to use,Positive,1
+I recommend this product,Positive,1
+The delivery was fast,Positive,1
+The room was clean,Positive,1
+The lesson was interesting,Positive,1
+The support team helped me,Positive,1
+The battery lasts long,Positive,1
+The design looks beautiful,Positive,1
+The performance is excellent,Positive,1
+The price is reasonable,Positive,1
+I enjoyed the experience,Positive,1
+The package arrived safely,Positive,1
+The instructions were clear,Positive,1
+The website works perfectly,Positive,1
+The camera takes clear photos,Positive,1
+The music was enjoyable,Positive,1
+The book was inspiring,Positive,1
+The game is fun,Positive,1
+The product feels durable,Positive,1
+The customer care was polite,Positive,1
+The result was impressive,Positive,1
+I am satisfied with the service,Positive,1
+The food was fresh,Positive,1
+The movie was entertaining,Positive,1
+The software runs smoothly,Positive,1
+The chair is comfortable,Positive,1
+The process was simple,Positive,1
+The team did a great job,Positive,1
+The trip was relaxing,Positive,1
+The course was useful,Positive,1
+The presentation was impressive,Positive,1
+Everything worked perfectly,Positive,1
+I had a pleasant experience,Positive,1
+The product is worth the money,Positive,1
+The response was quick,Positive,1
+The staff were welcoming,Positive,1
+The sound quality is clear,Positive,1
+The interface is user friendly,Positive,1
+The repair was quick,Positive,1
+The place was neat,Positive,1
+I am pleased with the result,Positive,1
+"Overall, i love this product.",Positive,1
+I think this product is excellent.,Positive,1
+"In my opinion, the service was wonderful.",Positive,1
+"Honestly, the movie was fantastic.",Positive,1
+"After trying it, the food tastes delicious.",Positive,1
+My experience was positive because i am happy with this purchase.,Positive,1
+One thing I liked: the staff were friendly.,Positive,1
+I am glad that this was a great experience.,Positive,1
+"Overall, the quality is amazing.",Positive,1
+I think the app is easy to use.,Positive,1
+"In my opinion, i recommend this product.",Positive,1
+"Honestly, the delivery was fast.",Positive,1
+"After trying it, the room was clean.",Positive,1
+My experience was positive because the lesson was interesting.,Positive,1
+One thing I liked: the support team helped me.,Positive,1
+I am glad that the battery lasts long.,Positive,1
+"Overall, the design looks beautiful.",Positive,1
+I think the performance is excellent.,Positive,1
+"In my opinion, the price is reasonable.",Positive,1
+"Honestly, i enjoyed the experience.",Positive,1
+"After trying it, the package arrived safely.",Positive,1
+My experience was positive because the instructions were clear.,Positive,1
+One thing I liked: the website works perfectly.,Positive,1
+I am glad that the camera takes clear photos.,Positive,1
+"Overall, the music was enjoyable.",Positive,1
+I think the book was inspiring.,Positive,1
+"In my opinion, the game is fun.",Positive,1
+"Honestly, the product feels durable.",Positive,1
+"After trying it, the customer care was polite.",Positive,1
+My experience was positive because the result was impressive.,Positive,1
+One thing I liked: i am satisfied with the service.,Positive,1
+I am glad that the food was fresh.,Positive,1
+"Overall, the movie was entertaining.",Positive,1
+I think the software runs smoothly.,Positive,1
+"In my opinion, the chair is comfortable.",Positive,1
+"Honestly, the process was simple.",Positive,1
+"After trying it, the team did a great job.",Positive,1
+My experience was positive because the trip was relaxing.,Positive,1
+One thing I liked: the course was useful.,Positive,1
+I am glad that the presentation was impressive.,Positive,1
+"Overall, everything worked perfectly.",Positive,1
+I think i had a pleasant experience.,Positive,1
+"In my opinion, the product is worth the money.",Positive,1
+"Honestly, the response was quick.",Positive,1
+"After trying it, the staff were welcoming.",Positive,1
+My experience was positive because the sound quality is clear.,Positive,1
+One thing I liked: the interface is user friendly.,Positive,1
+I am glad that the repair was quick.,Positive,1
+"Overall, the place was neat.",Positive,1
+I think i am pleased with the result.,Positive,1
+The headphones sound fantastic,Positive,1
+The new update works perfectly,Positive,1
+The staff solved the issue quickly,Positive,1
+The product arrived in perfect condition,Positive,1
+The instructions are very helpful,Positive,1
+The customer service is excellent,Positive,1
+I am delighted with the quality,Positive,1
+The application is reliable and fast,Positive,1
+The meal was tasty and fresh,Positive,1
+The experience was smooth and enjoyable,Positive,1
+The seller was honest and helpful,Positive,1
+The product exceeded my expectations,Positive,1
+The room was peaceful and tidy,Positive,1
+The class was clear and engaging,Positive,1
+The repair was successful,Positive,1
+The delivery arrived earlier than expected,Positive,1
+The screen is bright and clear,Positive,1
+The controls are simple,Positive,1
+The overall experience was satisfying,Positive,1
+I am impressed by this service,Positive,1
+I hate this product,Negative,0
+This product is terrible,Negative,0
+The service was awful,Negative,0
+The movie was boring,Negative,0
+The food tastes disgusting,Negative,0
+I am unhappy with this purchase,Negative,0
+The staff were rude,Negative,0
+This was a bad experience,Negative,0
+The quality is poor,Negative,0
+The app is difficult to use,Negative,0
+I do not recommend this product,Negative,0
+The delivery was slow,Negative,0
+The room was dirty,Negative,0
+The lesson was confusing,Negative,0
+The support team ignored me,Negative,0
+The battery runs out quickly,Negative,0
+The design looks ugly,Negative,0
+The performance is terrible,Negative,0
+The price is unreasonable,Negative,0
+I disliked the experience,Negative,0
+The package arrived damaged,Negative,0
+The instructions were unclear,Negative,0
+The website does not work,Negative,0
+The camera takes blurry photos,Negative,0
+The music was annoying,Negative,0
+The book was disappointing,Negative,0
+The game is frustrating,Negative,0
+The product feels fragile,Negative,0
+The customer care was impolite,Negative,0
+The result was disappointing,Negative,0
+I am dissatisfied with the service,Negative,0
+The food was stale,Negative,0
+The movie was disappointing,Negative,0
+The software runs slowly,Negative,0
+The chair is uncomfortable,Negative,0
+The process was complicated,Negative,0
+The team did a terrible job,Negative,0
+The trip was stressful,Negative,0
+The course was useless,Negative,0
+The presentation was confusing,Negative,0
+Nothing worked properly,Negative,0
+I had an unpleasant experience,Negative,0
+The product is not worth the money,Negative,0
+The response was late,Negative,0
+The staff were unwelcoming,Negative,0
+The sound quality is poor,Negative,0
+The interface is confusing,Negative,0
+The repair took too long,Negative,0
+The place was messy,Negative,0
+I am disappointed with the result,Negative,0
+"Overall, i hate this product.",Negative,0
+I think this product is terrible.,Negative,0
+"In my opinion, the service was awful.",Negative,0
+"Honestly, the movie was boring.",Negative,0
+"After trying it, the food tastes disgusting.",Negative,0
+My experience was negative because i am unhappy with this purchase.,Negative,0
+One thing I disliked: the staff were rude.,Negative,0
+I am unhappy that this was a bad experience.,Negative,0
+"Overall, the quality is poor.",Negative,0
+I think the app is difficult to use.,Negative,0
+"In my opinion, i do not recommend this product.",Negative,0
+"Honestly, the delivery was slow.",Negative,0
+"After trying it, the room was dirty.",Negative,0
+My experience was negative because the lesson was confusing.,Negative,0
+One thing I disliked: the support team ignored me.,Negative,0
+I am unhappy that the battery runs out quickly.,Negative,0
+"Overall, the design looks ugly.",Negative,0
+I think the performance is terrible.,Negative,0
+"In my opinion, the price is unreasonable.",Negative,0
+"Honestly, i disliked the experience.",Negative,0
+"After trying it, the package arrived damaged.",Negative,0
+My experience was negative because the instructions were unclear.,Negative,0
+One thing I disliked: the website does not work.,Negative,0
+I am unhappy that the camera takes blurry photos.,Negative,0
+"Overall, the music was annoying.",Negative,0
+I think the book was disappointing.,Negative,0
+"In my opinion, the game is frustrating.",Negative,0
+"Honestly, the product feels fragile.",Negative,0
+"After trying it, the customer care was impolite.",Negative,0
+My experience was negative because the result was disappointing.,Negative,0
+One thing I disliked: i am dissatisfied with the service.,Negative,0
+I am unhappy that the food was stale.,Negative,0
+"Overall, the movie was disappointing.",Negative,0
+I think the software runs slowly.,Negative,0
+"In my opinion, the chair is uncomfortable.",Negative,0
+"Honestly, the process was complicated.",Negative,0
+"After trying it, the team did a terrible job.",Negative,0
+My experience was negative because the trip was stressful.,Negative,0
+One thing I disliked: the course was useless.,Negative,0
+I am unhappy that the presentation was confusing.,Negative,0
+"Overall, nothing worked properly.",Negative,0
+I think i had an unpleasant experience.,Negative,0
+"In my opinion, the product is not worth the money.",Negative,0
+"Honestly, the response was late.",Negative,0
+"After trying it, the staff were unwelcoming.",Negative,0
+My experience was negative because the sound quality is poor.,Negative,0
+One thing I disliked: the interface is confusing.,Negative,0
+I am unhappy that the repair took too long.,Negative,0
+"Overall, the place was messy.",Negative,0
+I think i am disappointed with the result.,Negative,0
+The headphones sound awful,Negative,0
+The new update keeps crashing,Negative,0
+The staff failed to solve the issue,Negative,0
+The product arrived broken,Negative,0
+The instructions are confusing,Negative,0
+The customer service is horrible,Negative,0
+I am disappointed with the quality,Negative,0
+The application is unreliable and slow,Negative,0
+The meal was tasteless and cold,Negative,0
+The experience was stressful and frustrating,Negative,0
+The seller was dishonest and unhelpful,Negative,0
+The product failed my expectations,Negative,0
+The room was noisy and dirty,Negative,0
+The class was confusing and dull,Negative,0
+The repair was unsuccessful,Negative,0
+The delivery arrived much later than promised,Negative,0
+The screen is dim and blurry,Negative,0
+The controls are complicated,Negative,0
+The overall experience was frustrating,Negative,0
+I regret using this service,Negative,0
